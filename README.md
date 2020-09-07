@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/MiaSimone/travisGettingStarted.svg?branch=master)](https://travis-ci.com/MiaSimone/travisGettingStarted)
+
 
 Ultra simple Java Project meant for a Travis introduction
 
